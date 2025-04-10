@@ -16,7 +16,7 @@ float depositar(float meter, float total ){
 	total = total + meter;
 	cout<<endl;
 	
-	cout<<"Listo, se deposit� el monto";
+	cout<<"Listo, se depositó el monto";
 	cout<<endl;
 	cout<<endl;
 	return total;
@@ -96,4 +96,4 @@ int main(){
 	return 0;
 }
 
-
+//SOLO QUIERO AÑADIR ESTE COMENTARIO Y DECIR QUE ESTÁ CREADO EN DEV CPP, AHORA HARÉ UN COMMIT DESDE ESTA RAMA A VER COMO RESULTA
